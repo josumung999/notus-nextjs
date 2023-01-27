@@ -99,7 +99,7 @@ export default function CardPageVisits() {
                   147
                 </td>
                 <td className="border-t-0 px-6 align-middle border-l-0 border-r-0 text-xs whitespace-nowrap p-4">
-                  <i className="fas fa-arrow-up text-emerald-500 mr-4"></i>
+                  <i className="fas fa-arrow-up text-emerald-500 mr-4 w-3 h-3"></i>
                   50,87%
                 </td>
               </tr>
